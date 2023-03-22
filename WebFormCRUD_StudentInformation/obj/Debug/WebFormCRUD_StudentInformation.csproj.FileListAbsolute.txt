@@ -1,0 +1,148 @@
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\WebFormCRUD_StudentInformation.dll.config
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\WebFormCRUD_StudentInformation.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\WebFormCRUD_StudentInformation.pdb
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csc.exe
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csc.exe.config
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csc.rsp
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csi.exe
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csi.exe.config
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csi.rsp
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.Managed.Core.targets
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.AppContext.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Collections.Immutable.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Console.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Globalization.Calendars.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.IO.Compression.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.IO.FileSystem.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Net.Http.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Net.Sockets.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Reflection.Metadata.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.ValueTuple.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Xml.XmlDocument.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Xml.XPath.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\vbc.exe
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\vbc.exe.config
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\vbc.rsp
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\VBCSCompiler.exe
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\VBCSCompiler.exe.config
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Antlr3.Runtime.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\AspNet.ScriptManager.bootstrap.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\AspNet.ScriptManager.jQuery.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.ScriptManager.WebForms.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.Web.Infrastructure.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Newtonsoft.Json.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\System.Web.Optimization.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\WebGrease.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\System.Web.Optimization.xml
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Newtonsoft.Json.xml
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Antlr3.Runtime.pdb
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\obj\Debug\WebFormCRUD_StudentInformation.csproj.AssemblyReference.cache
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\obj\Debug\WebFormCRUD_StudentInformation.csproj.CoreCompileInputs.cache
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\obj\Debug\WebFormCRUD_StudentInformation.csproj.CopyComplete
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\obj\Debug\WebFormCRUD_StudentInformation.dll
+F:\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\obj\Debug\WebFormCRUD_StudentInformation.pdb
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\WebFormCRUD_StudentInformation.dll.config
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\WebFormCRUD_StudentInformation.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\WebFormCRUD_StudentInformation.pdb
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csc.exe
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csc.exe.config
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csc.rsp
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csi.exe
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csi.exe.config
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\csi.rsp
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.AppContext.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Collections.Immutable.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Console.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Globalization.Calendars.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.IO.Compression.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.IO.FileSystem.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Net.Http.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Net.Sockets.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.ValueTuple.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Xml.XPath.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\vbc.exe
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\vbc.exe.config
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\vbc.rsp
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\VBCSCompiler.exe
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\roslyn\VBCSCompiler.exe.config
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Antlr3.Runtime.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\AspNet.ScriptManager.bootstrap.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\AspNet.ScriptManager.jQuery.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.ScriptManager.WebForms.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.Web.Infrastructure.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Newtonsoft.Json.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\System.Web.Optimization.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\WebGrease.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\System.Web.Optimization.xml
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Newtonsoft.Json.xml
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Antlr3.Runtime.pdb
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\obj\Debug\WebFormCRUD_StudentInformation.csproj.AssemblyReference.cache
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\obj\Debug\WebFormCRUD_StudentInformation.csproj.CoreCompileInputs.cache
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\obj\Debug\WebFormCRUD_StudentInformation.csproj.CopyComplete
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\obj\Debug\WebFormCRUD_StudentInformation.dll
+F:\ASPNET Learning\WebFormCRUD_StudentInformation\WebFormCRUD_StudentInformation\obj\Debug\WebFormCRUD_StudentInformation.pdb
